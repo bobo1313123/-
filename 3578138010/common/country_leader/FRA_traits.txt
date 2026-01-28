@@ -1,6 +1,0 @@
-leader_traits ={
-	dOrleans_king ={
-		random = no
-		stability_factor = 0.10
-	}
-}
